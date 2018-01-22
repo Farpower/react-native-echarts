@@ -1,3 +1,6 @@
+# important
+这是一个fork自[github.com/somonus/react-native-echarts](github.com/somonus/react-native-echarts)的项目，主要为解决在项目中使用时遇到的一些bug
+
 # native-echarts
 
 [![NPM Version](https://img.shields.io/npm/v/native-echarts.svg?style=flat)](https://www.npmjs.org/package/native-echarts)
